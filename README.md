@@ -5,7 +5,8 @@
 **데이터로 재미를 설계하는 기획자**
 전주대학교 인공지능학과 3학년 · 목표 직무: 게임 데이터 분석 · 기획
 
-- 📧 Email: [이메일 주소]
+- 📄 [포트폴리오 PDF 보기](portfolio/Portfolio_MunKangbin.pdf) · [PPTX 원본](portfolio/Portfolio_MunKangbin.pptx)
+- 📧 Email: mkbqqqqq@gmail.com
 - 🏅 학업 최우등상 5회 · ADsP · SQLD · ITQ(한글·엑셀·파워포인트 A)
 - 🌏 말레이시아 UTM 글로벌 AI 과정 수료(2025) · 토론토대 C-MORE ML 프로그램 수료(2026) · 피지컬 AI 부트캠프 ND1 이수(2026)
 
